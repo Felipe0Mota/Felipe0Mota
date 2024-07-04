@@ -1,6 +1,9 @@
 <h1>Oi... bem vindo ao meu perfil do GitHub!</h1>
-<p>Meu nome é <i>Felipe Wolff Mota</i>, mas pode me chamar de <strong>Wolff</strong></p>
-<br>
+<p>Meu nome é <i>Felipe Wolff Mota</i>,<br>
+  <img src="https://avatars.githubusercontent.com/u/105669915?v=4" width="219"><br>
+  mas pode me chamar de <strong>Wolff</strong></p>
+
+
 <h2>💭 Sobre mim:</h2>
 <ul>
   <li>Tenho <strong>23 anos</strong></li>
